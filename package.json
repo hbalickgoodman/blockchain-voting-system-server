@@ -1,0 +1,17 @@
+{
+  "name": "blockchain-voting-system-server",
+  "version": "1.0.0",
+  "description": "Manage Connections from Browsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Blockchain"
+  ],
+  "author": "Daniel A. Fournier, Henry Balick Goodman",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.0.1"
+  }
+}
